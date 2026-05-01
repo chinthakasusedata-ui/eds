@@ -1,3 +1,2 @@
-# Welcome to my EDS site
-
-My Adobe Edge Delivery site is working.
+# Hello EDS
+This is working.
